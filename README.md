@@ -2,7 +2,7 @@
 
 <h3 align="center"> Choose your own Adventure Game based on medieval setting </h3>
 <p align="center">
-  <img  src="https://imgur.com/bTfjXZZ">
+  <img  src="https://i.imgur.com/bTfjXZZ.png">
 </p>
 <h1 align="center">DESCRIPTION</h1>
 <p align="center">xx  </p>
