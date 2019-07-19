@@ -37,6 +37,7 @@
 </p>
 <h1 align="center">OBSERVATIONS</h1>
 <p align="center">The App is only for android with no realase date for now</p>
+<p align="center">Repository contains only 3 scripts as an example</p>
 
 
 
