@@ -1,11 +1,11 @@
 <h1 align="center">Svein</h1>
 
-<h3 align="center"> Choose your own Adventure Game based on medieval setting </h3>
+<h3 align="center"> Text based game where you choose your own path through an engaging story in a fantasy setting </h3>
 <p align="center">
   <img  src="https://i.imgur.com/bTfjXZZ.png">
 </p>
 <h1 align="center">DESCRIPTION</h1>
-<p align="center">Svein is a text adventure game similar to old Choose your own story books (CYOA), in which you play as Svein , a warrior forced to fight for his own freedom. As in all interactive novels, your choices will affect the story and every choice has consequences.   </p>
+<p align="center">Svein is a text adventure game similar to old Choose your own story books (CYOA), in which you play as Svein , a warrior forced to fight for his own freedom. As in all interactive novels, your choices will affect the story and every choice has consequences. </p>
 <p>Application Features : </p>
 
 
@@ -18,8 +18,8 @@
 <h1 align="center">BUILT WITH</h1>
  <p align="center">  <a href="https://unity3d.com/">Unity3D </a>- Game Engine</p>
  <p align="center" >  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/">C# </a>- Scripting Language</p>
-   <p align="center"> <a href="http://www.adobe.com/ro/products/photoshop.html?promoid=GXWFR">Adobe Photoshop </a>- Image Editor for artwork ,UI and post-processing</p>
-<p align="center"> <a href="https://github.com/infiniteammoinc/Yarn">Yarn </a>- Text Editor for creating the branching story</p>
+ <p align="center"> <a href="http://www.adobe.com/ro/products/photoshop.html?promoid=GXWFR">Adobe Photoshop </a>- Image Editor for artwork ,UI and post-processing</p>
+ <p align="center"> <a href="https://github.com/YarnSpinnerTool/YarnEditor">YarnEditor </a>- Node based Text Editor for creating the branching story</p>
 
 
 <h1 align="center">INSTALLATION</h1>
@@ -33,11 +33,12 @@
 <img src="https://i.imgur.com/7oHr6vQ.png" align="center" width="360" height="780">
 <img src="https://i.imgur.com/j0BXlop.png" align="center" width="360" height="780">
 <img src="https://i.imgur.com/EQuBxBg.png" align="center" width="360" height="780">
+<img src="https://i.imgur.com/ECz7Q76.png" align="center" width="724" height="400">
 
 </p>
 <h1 align="center">OBSERVATIONS</h1>
-<p align="center">The App is only for android with no realase date for now</p>
-<p align="center">Repository contains only 3 scripts as an example</p>
+<p align="center">The game is only for android with no realase date for now</p>
+<p align="center">Repository contains sample files and not the whole project</p>
 
 
 
