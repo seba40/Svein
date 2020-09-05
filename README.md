@@ -5,7 +5,7 @@
   <img  src="https://i.imgur.com/bTfjXZZ.png">
 </p>
 <h1 align="center">DESCRIPTION</h1>
-<p align="center">Svein is a text adventure game similar to old Choose your own story books (CYOA), in which you play as Svein , a warrior forced to fight for his own freedom. As in all interactive novels, your choices will affect the story and every choice has consequences. </p>
+<p align="center">Svein is a text adventure game similar to old Choose Your Adventure books (CYOA), in which you play as Svein , a warrior forced to fight for his own freedom. As in all interactive novels, your choices will affect the story and every choice has consequences. </p>
 <p>Application Features : </p>
 
 
