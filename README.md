@@ -40,7 +40,7 @@
 <p align="center">The game is only for android with no realase date for now</p>
 <p align="center">Repository contains sample files and not the whole project</p>
 <p align="center">Software Developer: Sebastian Boteanu</p>
-<p align="center">Project Manager: Robert-Theodor Danet</p>
+<p align="center">Content Creator: Robert-Theodor Danet</p>
 
 
 
