@@ -1,0 +1,312 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "<*MUSIC_1*><*CHAPTER_1*>Prologue\n<*ITALICS*>Freedom – a single word that holds immense power. We use it every day without fully understanding its significance. Taking a closer look at whatever encompasses us, we will find out that everybody desires nothing short of freedom.\n<*IMAGE_image1*><*SOUND_carriageSound_10_1*>My name is Svein Asvard, and not too long ago I was free. I am now chained up to the bars of a cramped cage at the back of a carriage, starving. “What has fate prepared for me?” I wonder.\nAm I to live my whole life as a slave, a pit fighter? Never living to see the light of day again? Never to feel the white snows of my homeland melting in my hands or hunt with my best friend ever again? All because of a childish mistake…\nMy life, my whole life dissipating in the blink of an eye because I chose to look to my left instead of my right. To think that all of this could have been avoided so easily saddens me.\nWhat happened? I was a solider, fighting a war of survival against those who would end my kind. I was born with the sword in my hand, and I thought I would die that way as well. With blood and glory on the battlefield. Yet, during my last battle I heard a noise to my left. When I turned around something hit me from the right, causing me to lose my conscience. When I woke up, I was already a slave.\nIt’s freezing. <*SOUND_wind_10_0.35*>I can feel the wind crawling its way under my skin, slicing it open as with a sharp blade. Who knows? Perhaps a sharp blade is what awaits me at the end of this road. The thought of dying in chains makes me feel...\n[[Afraid|Afraid]]\n[[Dissapoined|Dissapoined]]\n[[Sick|Sick]]",
+		"position": {
+			"x": -530,
+			"y": 289
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Afraid",
+		"tags": "",
+		"body": "I don’t want to die. I know the gods are waiting for me on the other side of death, but I’d rather have them waiting than dine among them. Life is so full of possibilities, there is so much more I’d rather do!\n[[NewHome|NewHome]]",
+		"position": {
+			"x": -267,
+			"y": 55
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Dissapoined",
+		"tags": "",
+		"body": "I don’t fear death, but I always hoped of dying in glorious battle, sword in hand, not being carried in chains and dragged like a pig to the slaughter. I was born a warrior, I want to die a warrior, not a slave!\n[[NewHome|NewHome]]",
+		"position": {
+			"x": -273,
+			"y": 291
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Sick",
+		"tags": "",
+		"body": "These filths have chained me up out of cowardice. I will kill them all with my bare hands if need be. I refuse to be executed, tied up with no way of retaliating. That is no honorable death!\n[[NewHome|NewHome]]",
+		"position": {
+			"x": -286,
+			"y": 524
+		},
+		"colorID": 0
+	},
+	{
+		"title": "NewHome",
+		"tags": "",
+		"body": "The horse stops and I can hear the door of the cage squeak. Two men enter the cage. One of them is freeing me from the cuffs, only to tie my arms together while the other is wrapping a chain around my neck, dragging me all the way out of the cage. Half a dozen men gather, pointing their spears at me, as a form of precaution. The cowards are scared of me.\nLooking around, I notice no executioner’s block, no gallows, just large open gates, beyond which lies a stony corridor with torches lighting its way. The man pulling on the chain and the ones poking me are leading me towards it.\nEntering, I can feel the damp air filling my lungs as the smell of mold makes my stomach churn. From the other side of the corridor, I can hear men shrieking, cheering even. I know where I am.\n“Welcome to your new home, brute!” says the man in front of me as he yanks on that chain even harder, causing me to choke for a moment.<*NEWLINE*> “Good riddance!”\n“I will kill you with this chain!” I yell.\nThe man turns around, leaning towards me. <*NEWLINE*>“I’m surprised a swine like you can even talk!” he exclaims, slapping me with the back of his hand.\n[[Headbutt him|Headbutt]]\n[[Kill him|Kill]]\n[[Spit in his face|Spit]]",
+		"position": {
+			"x": 17,
+			"y": 290
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Headbutt",
+		"tags": "",
+		"body": "Taking advantage of this opportunity, I quickly lay my head back and launch it forward, hitting him in the nose.<*NEWLINE*>“You prick!” he roars furiously, blood gushing down from his nostrils, as he reaches towards his belt and unsheathes his dagger.\r\n[[OnlyOne|OnlyOne]]",
+		"position": {
+			"x": 277,
+			"y": 498
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Kill",
+		"tags": "",
+		"body": "Enraged, I immediately leap towards his throat, ripping it open with my teeth. Blood starts spraying from his jugular right in my eyes. As I try to wipe the blood away, I feel a cold object piercing through my body, followed by a sharp pain in my heart.<*NEWLINE*>“A warrior’s death!” I think as my body slowly falls limp to the ground.\n[[OnlyOne|OnlyOne]]",
+		"position": {
+			"x": 276,
+			"y": 268
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Spit",
+		"tags": "",
+		"body": "Taking advantage of this opportunity, I unhesitatingly throw a lump of spit that hits him straight in the eye.<*NEWLINE*>“You prick!” he screams enraged, wiping his eye, as he reaches towards his belt and unsheathes his dagger.\r\n[[OnlyOne|OnlyOne]]",
+		"position": {
+			"x": 269,
+			"y": 38
+		},
+		"colorID": 0
+	},
+	{
+		"title": "OnlyOne",
+		"tags": "",
+		"body": "“ENOUGH!” a booming voice shouts from behind him. At the sound of it, the man in front of me places the dagger back in its sheath and turns around to greet the approaching imposing presence. A tall, brutishly muscular man approaches, his bald head reflecting whatever light the torches hanging on the wall give off. Based on his appearance, I can tell that he is from Egadror, just like me.\n<*ITALICS*>We, Egadrorians, do not resemble humans entirely. Although we are considered one of the five kingdoms of men, we share kinship with the Nofvir, the ice giants of Husland. Thus, we are taller, stronger and tougher than regular humans.\n“Once he passed those gates, he is mine!” he says, pointing at me, “And I don’t take lightly to others messing with my property! Alieth law doesn’t protect you in here!”\n“Y-Yes, sir!” said the man, handing the chain bound around my neck to the one who appears to be the jailer of this place. “Understood, sir!”\n“Go!” a deep sneer emerged from the giant man’s throat, causing my escort to flee immediately.\nAs soon as the gates close, the giant’s expression changes: his facial muscles relax and his frown disappears. He approaches me and removes the chain around my neck. \n“You’re from Egadror!” I say hopefully.“Name’s Gunstaad Skald, born and raised there, and so were you. Let me guess, war prisoner, eh?” I nod.\n“You’re far from home, lad.” He says, placing his hand on my shoulder.<*NEWLINE*>“Well, no matter, a strong warrior like you should have no trouble in the pits.”\n“Am I the only Egadrorian here?”\n“You’re the only one alive. There were two more until a few days ago, had to pitch them against one another. One died in the pits, the other failed the master’s challenge.”\n“What challenge?”\n<*ENDCHAPTER*>“You’ll find out, if you’re lucky.” he answered, turning around, signaling me to follow him.<*NEWLINE*>“For now, just don’t die.”\n[[ChapterOne|ChapterOne]]\n",
+		"position": {
+			"x": 639,
+			"y": 275
+		},
+		"colorID": 0
+	},
+	{
+		"title": "ChapterOne",
+		"tags": "",
+		"body": "<*/MUSIC*><*MUSIC_2*><*CHAPTER_2*>Chapter I\n<*SOUND_tavern_15_1*>Following Gunstaad down the corridor, we reach another large, barred gate, behind which plenty of races can be seen, from minotaurs to gnolls, naga, even dwarves and mere humans, all standing around tables, drinking, eating and laughing. All gladiators like me, but they are old dogs in this game.\nLooking around some more, I observe a pattern: as mixed as they may be, they are spread out into groups of three, except for a single table where there only sit a stocky dwarf with ginger hair and a thick, braided beard, and a tall, slender gnoll who appears to be laughing at something the dwarf just said.\nThe gate shrieks as Gunstaad pulls it open, covering all other noises, and causing silence to envelop the room, as all gazes are now fixed upon me.\n“New blood, folks!” laughs a gnoll, throwing his cup in the air.\nSuddenly, the whole room fills with laughter.<*NEWLINE*>“I give him two fights at most!” a minotaur can be heard.<*NEWLINE*>“He looks strong, though. He may be lucky and get five.” another voice argues.<*NEWLINE*>“I don’t know, but he should hope I won’t be his opponent, I’ll gut him head to toe!”\nGunstaad points me to the table where the dwarf and gnoll are sitting.<*NEWLINE*>“Those are your teammates. You live together, you eat together, you fight together. And if you do not co-operate, you die together.”\nAs the giant leaves, closing the gates behind me, I calmly walk towards the table where my new teammates are.\n“What do ye want, laddie?” The dwarf asks, throwing me a cold gaze.\n[[Introduce myself|Introduce]]\n[[”That’s no way to talk to your teammate”|Teammate]]\n[[”A drink”|Drink]]\n[[”So I hear we are teammates.”|Hear]]",
+		"position": {
+			"x": 898,
+			"y": 278
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Introduce",
+		"tags": "",
+		"body": "I’m Svein, your new teammate\n[[Eh|Eh]]",
+		"position": {
+			"x": 1171,
+			"y": 608
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Teammate",
+		"tags": "",
+		"body": "”That’s no way to talk to your teammate”.\n[[Eh|Eh]]",
+		"position": {
+			"x": 1168,
+			"y": 379
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Drink",
+		"tags": "",
+		"body": "”A drink I’m dying of thirst!”.<*NEWLINE*>“Who might you be?” the Gnoll asked.<*NEWLINE*>“Your new teammate.”\r\n[[Eh|Eh]]",
+		"position": {
+			"x": 1170,
+			"y": 159
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Hear",
+		"tags": "",
+		"body": "”So I hear we are teammates.”\n[[Eh|Eh]]",
+		"position": {
+			"x": 1168,
+			"y": -68
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Eh",
+		"tags": "",
+		"body": "“Teammates, eh? Sit down, lad! Tell me more!” the dwarf lit up.“Our previous companion was killed during a brawl, and ever since we’ve been just a team o’ two. As ye can figure, this can be a major handicap in the pits, so we were put off fighting until we would get another teammate. No fighting means no chance of freedom.”\n“When are we fighting?” I ask.\n“Now that ye’re here, hopefully tomorrow!”\nA thump interrupts him as the gnoll smashes his fist on the table.<*NEWLINE*>“Let me make this clear, new blood!” he says, fixing me with a freezing glance. “I don’t like you but I need you to win my freedom. I am not your friend, I am not your partner. If you dare cross me... teammate or not, I will kill you!”\n[[“You can try”|Try]]\n[[“Understood”|Understood]]",
+		"position": {
+			"x": 1468,
+			"y": 285
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Try",
+		"tags": "",
+		"body": "“You can try” I answer.\nHis lips curl slightly, revealing his sharp teeth yellowed by time, and a deep snarl from his throat follows. “We shall see, halfbreed. We shall see!”\n[[Rashpaw|Rashpaw]]",
+		"position": {
+			"x": 1728,
+			"y": 166
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Understood",
+		"tags": "",
+		"body": "“Understood.” I answer firmly, fixing his gaze with my own.\r\n“Good!”\r\n[[Rashpaw|Rashpaw]]",
+		"position": {
+			"x": 1734,
+			"y": 417
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Rashpaw",
+		"tags": "",
+		"body": "“Alright, you folks!”Gunstaad’s voice echos from behind the bars.<*NEWLINE*>“Curfew time! Back to your chambers!”\r\nTo my amazement, all fighters immediately finish their drinks and get up, walking towards a hallway behind me. Being too tired and still pained from those chains, I follow them.\r\n“How come no one dares defy Gunstaad?” I ask the dwarf.\r\n“Some have tried, none have succeeded.” he answers shortly. “Name’s Huldrin Stormshoulder, what about ye, laddie?”\r\n“Svein Asvard. Who’s our jolly comrade?”\r\n<*ENDCHAPTER*>“That’s Rashpaw. Don’t take him personally. He’s just a bit cranky. Give him time and he’ll warm up to you.”\r\n[[ChapterTwo|ChapterTwo]]",
+		"position": {
+			"x": 1994,
+			"y": 289
+		},
+		"colorID": 0
+	},
+	{
+		"title": "ChapterTwo",
+		"tags": "",
+		"body": "<*CHAPTER_3*>Chapter II\nI let Huldrin walk in front of me, to guide me to our cell. As we enter the hallway, the open, lit area of the mess hall changes into a narrower tunnel. I stretch my arms out, to measure the width, and, to my surprise, I only need to close my fists to cover it.\nA few steps later, I distantly hear echoing creaks coming from somewhere apart, but I can’t figure what is happening. A Minotaur walking in front of Huldrin is blocking my view.\nAll of a sudden he stops and turns to his left, where I see a barred door. In front of me, the dwarf backs down, allowing the bovine enough space to pull the door open in a sweeping move.\nAs soon as the Minotaur enters, he slams the door behind him with such a loud thump that I can hear a metal cling on the opposite wall. Turning my face towards the rattling metal, I notice that along the wall, portraits in round metal plates are hanged.\n“Who are these people on the wall?” I ask the dwarf.\n“They are previous champions who have won their freedom.” he replies.\n“So, it is possible to win your freedom back?”\n“Possible? Yes. Probable? No.”\nThe dwarf signals me to stop, then turns to another barred door and pulls it open. “After you!” He says courteously.”\nAs I enter, I can see three beds. Rashpaw is already lying down on his, on the right wall of the cell, with his legs pointed towards us.\n“Welcome home!” he says with a wide grin.\nHuldrin enters the cell behind me, closing the door with an even louder thump than the one of the Minotaur.\n“You’re strong...for a dwarf!” I say jokingly.\n“I could still take ye in a fight!” He replies with fire in his eyes as he walks towards the bed on the far end of the room.\n“Bet?” I say.\n“You’ve got it!” The dwarf says, leaping on the bed.\nI make my way to the last empty bed and lie down as well, trying to catch some rest. I close my eyes for a second… I hear a loud, rumbling sound in the distance intensifying until it reaches the door of our room.\nOpening my eyes, I notice Gunstaad locking the door, holding a giant ring of keys in his hand.\n“That’s a lot of keys!” I say smiling.\n“Used to be even more!” he replies, tasting my joke.<*NEWLINE*>“You’re not dead yet. This is a good sign. Perhaps you’ll earn your freedom after all.”\nBefore I had time to say anything, the Egadrorian was already at the next cell, locking it down.\n“Freedom…” I hear Rashpaw mumbling. “We were all free once...” “We were... But not anymore. We now live to entertain others.” Huldrin adds. “I miss The Thundering Mountains. I miss walking through the snow on its peak, sitting down with a bunch of lads, starting a fire, cooking some beast that we just fought and washing it down with a tankard of ale.\nI miss retreating into the mountain when the snowstorms came, shutting the great gate, made of stone and steel, and running into the forge. Allowing the embers flying from the hammer strikes to warm me up. I miss my forge. I used to craft anything from toys and trinkets to weapons and armor. A dwarf blacksmith without his forge is like a naga without a tail. We need it back!”\n[[”So you’re a blacksmith ?”|Blacksmith]]\n[[“How long have you been in here for ?”|Long]]\n",
+		"position": {
+			"x": 2237,
+			"y": 288
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Long",
+		"tags": "",
+		"body": "“How long have you been in here for?”\n“Coming up on two years...” he said remorsefully. “I came in right at the end of the previous Summer Games. I remember the day even now!”\n[[“What about you, Rashpaw?”|WhatAboutYou]]\n[[“Tell me more about your home!”|TellMe]]",
+		"position": {
+			"x": 2493,
+			"y": 140
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Blacksmith",
+		"tags": "",
+		"body": "”So you’re a blacksmith?”\n“Aye! I was born with hot iron instead of blood flowing through my veins.” he says jokingly. “Me father was a smith as well, as was me grandfather. It is a family tradition and I wouldn’t change it for anything in the world!”\n[[“What about you, Rashpaw?”|WhatAboutYou]]\n[[“Tell me more about your home!”|TellMe]]",
+		"position": {
+			"x": 2491,
+			"y": 407
+		},
+		"colorID": 0
+	},
+	{
+		"title": "TellMe",
+		"tags": "",
+		"body": "“Tell me more about your home, Huldrin!”\n“What is there to tell, lad? I come from the northern dwarf city, Nortduhr. Ruled by the noble Bloodanvil line. King Thorak Bloodanvil rules with such wisdom and courage. Always leading by example, never giving an order that his heart wouldn’t let him do.\nThus common folk and aristocrats alike love our king. I am a blacksmith and have been for over 80 years. I had a lass that I loved more than anything. I don’t know where she is now.\nDoes she still remember me? Has she moved on? I was planning on marrying her before arriving here.”\n“How did you get here anyway?”\n“Same as you, lad! I was sold to The Master. There is a great war between us, dwarves and the Minotaur. It’s so ancient at this point that we have even forgotten what started it all.\nI was called to serve my kin by fighting against these horned beasts. After the battle was won, our enemy launched a nigh-time ambush. Some were captured, some were slain, and I ended up here, in The Master’s arena.\n[[“I am so sorry to hear that!”|SorryToHear]]\n[[“What about you, Rashpaw?”|WhatAboutYou]]",
+		"position": {
+			"x": 2750,
+			"y": 136
+		},
+		"colorID": 0
+	},
+	{
+		"title": "WhatAboutYou",
+		"tags": "",
+		"body": "“What about you, Rashpaw?\r\n“What about me?”\r\n“Where do you come from? How was your life before coming here, and what would you do, should you earn your freedom?\r\n“How much do you know about gnolls?”\r\n[[”Nothing, really!”|NothingReally]]\r\n[[“Just a bit”|JustABit]]",
+		"position": {
+			"x": 2748,
+			"y": 411
+		},
+		"colorID": 0
+	},
+	{
+		"title": "SorryToHear",
+		"tags": "",
+		"body": "“I am so sorry to hear that, Huldrin!”\r\n“Don’t be, lad, Rashpaw went through greater hardships. Tell him!”\r\n“How much do you know about gnolls?” Rashpaw asks.\r\n[[”Nothing, really!”|NothingReally]]\r\n[[“Just a bit”|JustABit]]",
+		"position": {
+			"x": 2988,
+			"y": 140
+		},
+		"colorID": 0
+	},
+	{
+		"title": "JustABit",
+		"tags": "",
+		"body": "“Just a bit. I know that you are mercenaries, fighting for the highest payer. Not much else.”\r\n“Then, you know enough.”\r\n[[Gnolls|Gnolls]]",
+		"position": {
+			"x": 3248,
+			"y": 472
+		},
+		"colorID": 0
+	},
+	{
+		"title": "NothingReally",
+		"tags": "",
+		"body": "“Nothing, really!”\r\n“We have a mercenary culture. Our contract is our law.”\r\n[[Gnolls|Gnolls]]\r\n",
+		"position": {
+			"x": 3243,
+			"y": 206
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Gnolls",
+		"tags": "",
+		"body": "<*ITALICS*>As gnolls we live in companies. Our company is like our family, or the closest thing we have to one. It’s a common feeling of dependency. We need each other in order to survive.\r\n<*ITALICS*>As I said, we are for hire. Bodies to fight your war for you, if you have enough money to pay for us. Many battles were decided by us throughout all of recorded history. We are master tacticians and our analytical minds allow us to observe and form the best strategy in a matter of moments.\r\n<*ITALICS*>That being said, we don’t owe any more loyalty than what our contract suggests to our employers. Once the battle is won, we either leave, if we have our fair pay, or sack and kill, if we feel that our employer didn’t keep his end of the bargain.\r\n“Which is how I ended up here. My company was hired by an Aliethi nobleman to sack another company’s stronghold. During the fighting, I was hit over the head with a mallet. My helm saved my life, but I got knocked out.  When I woke up, I was already here.”\r\n[[“How long have you been here?”|HowLongYouBeen]]\r\n[[“Tell me more about your company”|AboutYourCompany]]\r\n[[“Say nothing”|SayNothing]]",
+		"position": {
+			"x": 3498,
+			"y": 348
+		},
+		"colorID": 0
+	},
+	{
+		"title": "HowLongYouBeen",
+		"tags": "",
+		"body": "“How long have you been here?”\r\n“A bit under a year. When I arrived, Huldrin was already in this place. There was no space for me in any team until Huldrin’s lost a member in combat. Ever since, and until our other comrade died, we’ve been fighting shoulder to shoulder. I remember--”\r\n<*ENDCHAPTER*>As the gnoll is proceeding with the story, I can feel the sweet embrace of sleep creeping up on me. Darkness enwraps my sight as my eyes close on their own.\r\n[[ChapterThree|ChapterThree]]",
+		"position": {
+			"x": 3738,
+			"y": 88
+		},
+		"colorID": 0
+	},
+	{
+		"title": "AboutYourCompany",
+		"tags": "",
+		"body": "“Tell me more about your company.”\r\n“<The Painted Blade Company> we were called. Among the elite, and most expensive companies of Agragal. I miss those green planes. How I wish I could return there, drinking, laughing and singing my way to war… I miss war--”  \r\n<*ENDCHAPTER*>As the gnoll is proceeding with the story, I can feel the sweet embrace of sleep creeping up on me. Darkness enwraps my sight as my eyes close on their own.\r\n[[ChapterThree|ChapterThree]]",
+		"position": {
+			"x": 3743,
+			"y": 297
+		},
+		"colorID": 0
+	},
+	{
+		"title": "SayNothing",
+		"tags": "",
+		"body": "<*ENDCHAPTER*>“Say nothing.”\n[[ChapterThree|ChapterThree]]",
+		"position": {
+			"x": 3744,
+			"y": 511
+		},
+		"colorID": 0
+	},
+	{
+		"title": "ChapterThree",
+		"tags": "",
+		"body": "<*CHAPTER_4*><*/MUSIC*>Chapter III\n",
+		"position": {
+			"x": 4021,
+			"y": 295
+		},
+		"colorID": 0
+	}
+]
